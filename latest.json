@@ -1,11 +1,11 @@
 {
-  "title": "New Music Coming Soon",
+  "title": "Never Say Forever",
   "artist": "Hill Country Line",
-  "album": "",
+  "album": "No Straight Lines",
   "type": "Latest Single",
-  "cover": "",
-  "image": "",
-  "audio": "",
-  "audioSrc": "",
+  "cover": "images/covers/never-say-forever-hill-country-line-cover.png",
+  "image": "images/covers/never-say-forever-hill-country-line-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/k1h9vofmy7s49662k3mtw/never-say-forever-hill-country-line-MP3-mastered.mp3?rlkey=o120lchfitqwiupwqza4ewvhv&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/k1h9vofmy7s49662k3mtw/never-say-forever-hill-country-line-MP3-mastered.mp3?rlkey=o120lchfitqwiupwqza4ewvhv&raw=1",
   "videos": []
 }
