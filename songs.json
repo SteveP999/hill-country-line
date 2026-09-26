@@ -9,13 +9,13 @@
     "albumOrder": 1,
     "albumCover": "images/covers/chatgpt-image-sep-26,-2026,-10_36_51-am.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/never-say-forever-hill-country-line-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/k1h9vofmy7s49662k3mtw/never-say-forever-hill-country-line-MP3-mastered.mp3?rlkey=o120lchfitqwiupwqza4ewvhv&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/k1h9vofmy7s49662k3mtw/never-say-forever-hill-country-line-MP3-mastered.mp3?rlkey=o120lchfitqwiupwqza4ewvhv&raw=1",
     "videos": [],
     "includeOnRadio": false,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {
@@ -23,5 +23,26 @@
       "apple": "",
       "youtubeMusic": ""
     }
+  },
+  {
+    "id": "hill-country-line-burning-bridges",
+    "num": "05",
+    "title": "Burning Bridges",
+    "artist": "Hill Country Line",
+    "album": "No Straight Lines",
+    "trackNumber": 5,
+    "albumOrder": 5,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/hill-country-line-burning-bridges-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/zqwhps8lwuiv730rraeaf/hill-country-line-burning-bridges-MP3-mastered.mp3?rlkey=oh6tc60f37p7wv2ci3oi8yjyq&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/zqwhps8lwuiv730rraeaf/hill-country-line-burning-bridges-MP3-mastered.mp3?rlkey=oh6tc60f37p7wv2ci3oi8yjyq&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
