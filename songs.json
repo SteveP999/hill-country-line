@@ -4,7 +4,7 @@
     "num": "01",
     "title": "Never Say Forever",
     "artist": "Hill Country Line",
-    "album": "",
+    "album": "No Straight Lines",
     "trackNumber": 99,
     "albumOrder": 99,
     "albumCover": "",
@@ -18,6 +18,10 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]
