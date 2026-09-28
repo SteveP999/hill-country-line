@@ -46,7 +46,15 @@
     "cover": "images/covers/hill-country-line-always-the-almost-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/2q1ev72v3971vno0rlms7/always-the-almost-hill-country-line-WAV-V2-mastered.wav?rlkey=75dam97fd992rqqd59mhgl0s5&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/2q1ev72v3971vno0rlms7/always-the-almost-hill-country-line-WAV-V2-mastered.wav?rlkey=75dam97fd992rqqd59mhgl0s5&raw=1",
-    "videos": [],
+    "videos": [
+      {
+        "title": "Hill Country Line - Always the Almost (Lyric Video)",
+        "exclusive": true,
+        "mp4_16": "https://www.dropbox.com/scl/fi/sys0kzhdim69drx7bigar/always-the-almost-hill-country-line-LYRIC-VIDEO-16x9-ONLINE-CORRECTED.mp4?rlkey=kq7abxvnacj8bhtp0yat37rob&raw=1",
+        "mp4_9": "https://www.dropbox.com/scl/fi/4mf7ot8n4cisuhd0ze857/always-the-almost-hill-country-line-LYRIC-VIDEO-9x16-ONLINE-CORRECTED.mp4?rlkey=b12134xlfcvd99arrl1c9vavl&raw=1",
+        "order": 1
+      }
+    ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
