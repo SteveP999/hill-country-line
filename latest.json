@@ -7,5 +7,13 @@
   "image": "images/covers/hill-country-line-somewhere-in-the-middle-cover.png",
   "audio": "https://www.dropbox.com/scl/fi/132js6by3ws15kq6c0b1o/somehwere-in-the-middle-hill-country-line-MP3-mastered.mp3?rlkey=iixsa4hrvw2jni25t8218yvzj&raw=1",
   "audioSrc": "https://www.dropbox.com/scl/fi/132js6by3ws15kq6c0b1o/somehwere-in-the-middle-hill-country-line-MP3-mastered.mp3?rlkey=iixsa4hrvw2jni25t8218yvzj&raw=1",
-  "videos": []
+  "videos": [
+    {
+      "title": "Hill Country Line - Somewhere In the Middle (Lyric Video)",
+      "exclusive": true,
+      "mp4_16": "https://www.dropbox.com/scl/fi/l46nur2xxiqh9ijmcp4ke/hill-country-line-somewhere-in-the-middle-lyric-16x9.mp4?rlkey=kc5ghw1mkdxu3nh258vb6xjsb&raw=1",
+      "mp4_9": "https://www.dropbox.com/scl/fi/2nhmcoob7ls41spmw3ly7/hill-country-line-somewhere-in-the-middle-lyric-9x16.mp4?rlkey=wuwbyquycejjw3gm561fr80ri&raw=1",
+      "order": 1
+    }
+  ]
 }
