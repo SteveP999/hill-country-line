@@ -38,8 +38,39 @@
     }
   },
   {
-    "id": "hill-country-line-always-the-almost",
+    "id": "hill-country-line-i-can-t-take-it-back",
     "num": "02",
+    "title": "I Can't Take It Back",
+    "artist": "Hill Country Line",
+    "album": "No Straight Lines",
+    "trackNumber": 2,
+    "albumOrder": 2,
+    "albumCover": "images/covers/hill-country-line-no-straight-lines-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": false,
+    "cover": "images/covers/hill-country-line-i-can-t-take-it-back-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/iecbh2p7cdrvllxplyiim/hill-country-line-i-cant-take-it-back-MP3-mastered.mp3?rlkey=eeigb917abjk6qm0ai9ihlozp&st=xzqzi7et&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/iecbh2p7cdrvllxplyiim/hill-country-line-i-cant-take-it-back-MP3-mastered.mp3?rlkey=eeigb917abjk6qm0ai9ihlozp&st=xzqzi7et&raw=1",
+    "videos": [
+      {
+        "youtube": "https://youtu.be/20hQY5ifubw?si=2ZbS7egMmNdEAb-9",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
+    "includeOnRadio": false,
+    "includeOnHomepage": false,
+    "explicit": false,
+    "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
+  },
+  {
+    "id": "hill-country-line-always-the-almost",
+    "num": "03",
     "title": "Always the Almost",
     "artist": "Hill Country Line",
     "album": "No Straight Lines",
@@ -76,8 +107,39 @@
     }
   },
   {
+    "id": "hill-country-line-a-little-more-every-day",
+    "num": "04",
+    "title": "A Little More Every Day",
+    "artist": "Hill Country Line",
+    "album": "No Straight Lines",
+    "trackNumber": 4,
+    "albumOrder": 4,
+    "albumCover": "images/covers/hill-country-line-no-straight-lines-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": false,
+    "cover": "images/covers/hill-country-line-a-little-more-every-day-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/xn0lh61mqukme0ve9yxyb/hill-country-line-a-little-more-every-day-MP3-mastered.mp3?rlkey=lfbweojj1mqssbuk94vqtctp0&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/xn0lh61mqukme0ve9yxyb/hill-country-line-a-little-more-every-day-MP3-mastered.mp3?rlkey=lfbweojj1mqssbuk94vqtctp0&raw=1",
+    "videos": [
+      {
+        "youtube": "https://youtu.be/m55X42kIBBg?si=ejx7SCaCgte2xj0l",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
+    "includeOnRadio": false,
+    "includeOnHomepage": false,
+    "explicit": false,
+    "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
+  },
+  {
     "id": "hill-country-line-burning-bridges",
-    "num": "03",
+    "num": "05",
     "title": "Burning Bridges",
     "artist": "Hill Country Line",
     "album": "No Straight Lines",
@@ -115,7 +177,7 @@
   },
   {
     "id": "hill-country-line-i-was-a-song",
-    "num": "04",
+    "num": "06",
     "title": "I Was a Song",
     "artist": "Hill Country Line",
     "album": "No Straight Lines",
@@ -153,7 +215,7 @@
   },
   {
     "id": "hill-country-line-back-to-chapter-one",
-    "num": "05",
+    "num": "07",
     "title": "Back to Chapter One",
     "artist": "Hill Country Line",
     "album": "No Straight Lines",
@@ -190,8 +252,39 @@
     }
   },
   {
+    "id": "hill-country-line-i-ll-see-you-there",
+    "num": "08",
+    "title": "I'll See You There",
+    "artist": "Hill Country Line",
+    "album": "No Straight Lines",
+    "trackNumber": 10,
+    "albumOrder": 10,
+    "albumCover": "images/covers/hill-country-line-no-straight-lines-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/hill-country-line-i-ll-see-you-there-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/lf01rofrvug5q3gv9y0wk/hill-country-line-ill-see-you-there-MP3-mastered.mp3?rlkey=5ikfv9jovwwwfyvcg2pztzi22&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/lf01rofrvug5q3gv9y0wk/hill-country-line-ill-see-you-there-MP3-mastered.mp3?rlkey=5ikfv9jovwwwfyvcg2pztzi22&raw=1",
+    "videos": [
+      {
+        "youtube": "https://youtu.be/CBvJ6mRRDm8?si=MgTvjpXula-x-BT8",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
+  },
+  {
     "id": "hill-country-line-somewhere-in-the-middle",
-    "num": "06",
+    "num": "09",
     "title": "Somewhere In the Middle",
     "artist": "Hill Country Line",
     "album": "No Straight Lines",
@@ -219,99 +312,6 @@
     ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
-    "explicit": false,
-    "tags": [],
-    "streaming": {
-      "spotify": "",
-      "apple": "",
-      "youtubeMusic": ""
-    }
-  },
-  {
-    "id": "hill-country-line-i-can-t-take-it-back",
-    "num": "02",
-    "title": "I Can't Take It Back",
-    "artist": "Hill Country Line",
-    "album": "No Straight Lines",
-    "trackNumber": 2,
-    "albumOrder": 2,
-    "albumCover": "",
-    "type": "single",
-    "isLatest": false,
-    "cover": "images/covers/hill-country-line-i-can-t-take-it-back-cover.png",
-    "audio": "https://www.dropbox.com/scl/fi/iecbh2p7cdrvllxplyiim/hill-country-line-i-cant-take-it-back-MP3-mastered.mp3?rlkey=eeigb917abjk6qm0ai9ihlozp&st=xzqzi7et&raw=1",
-    "audioSrc": "https://www.dropbox.com/scl/fi/iecbh2p7cdrvllxplyiim/hill-country-line-i-cant-take-it-back-MP3-mastered.mp3?rlkey=eeigb917abjk6qm0ai9ihlozp&st=xzqzi7et&raw=1",
-    "videos": [
-      {
-        "youtube": "https://youtu.be/20hQY5ifubw?si=2ZbS7egMmNdEAb-9",
-        "title": "Official Video",
-        "order": 1
-      }
-    ],
-    "includeOnRadio": false,
-    "includeOnHomepage": false,
-    "explicit": false,
-    "tags": [],
-    "streaming": {
-      "spotify": "",
-      "apple": "",
-      "youtubeMusic": ""
-    }
-  },
-  {
-    "id": "hill-country-line-a-little-more-every-day",
-    "num": "01",
-    "title": "A Little More Every Day",
-    "artist": "Hill Country Line",
-    "album": "No Straight Lines",
-    "trackNumber": 99,
-    "albumOrder": 99,
-    "albumCover": "",
-    "type": "single",
-    "isLatest": false,
-    "cover": "images/covers/hill-country-line-a-little-more-every-day-cover.png",
-    "audio": "https://www.dropbox.com/scl/fi/xn0lh61mqukme0ve9yxyb/hill-country-line-a-little-more-every-day-MP3-mastered.mp3?rlkey=lfbweojj1mqssbuk94vqtctp0&raw=1",
-    "audioSrc": "https://www.dropbox.com/scl/fi/xn0lh61mqukme0ve9yxyb/hill-country-line-a-little-more-every-day-MP3-mastered.mp3?rlkey=lfbweojj1mqssbuk94vqtctp0&raw=1",
-    "videos": [
-      {
-        "youtube": "https://youtu.be/m55X42kIBBg?si=ejx7SCaCgte2xj0l",
-        "title": "Official Video",
-        "order": 1
-      }
-    ],
-    "includeOnRadio": false,
-    "includeOnHomepage": false,
-    "explicit": false,
-    "tags": [],
-    "streaming": {
-      "spotify": "",
-      "apple": "",
-      "youtubeMusic": ""
-    }
-  },
-  {
-    "id": "hill-country-line-i-ll-see-you-there",
-    "num": "10",
-    "title": "I'll See You There",
-    "artist": "Hill Country Line",
-    "album": "No Straight Lines",
-    "trackNumber": 10,
-    "albumOrder": 10,
-    "albumCover": "",
-    "type": "single",
-    "isLatest": true,
-    "cover": "images/covers/hill-country-line-i-ll-see-you-there-cover.png",
-    "audio": "https://www.dropbox.com/scl/fi/lf01rofrvug5q3gv9y0wk/hill-country-line-ill-see-you-there-MP3-mastered.mp3?rlkey=5ikfv9jovwwwfyvcg2pztzi22&raw=1",
-    "audioSrc": "https://www.dropbox.com/scl/fi/lf01rofrvug5q3gv9y0wk/hill-country-line-ill-see-you-there-MP3-mastered.mp3?rlkey=5ikfv9jovwwwfyvcg2pztzi22&raw=1",
-    "videos": [
-      {
-        "youtube": "https://youtu.be/CBvJ6mRRDm8?si=MgTvjpXula-x-BT8",
-        "title": "Official Video",
-        "order": 1
-      }
-    ],
-    "includeOnRadio": false,
-    "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
     "streaming": {
