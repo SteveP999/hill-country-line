@@ -294,11 +294,21 @@
     "cover": "images/covers/hill-country-line-i-ll-see-you-there-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/lf01rofrvug5q3gv9y0wk/hill-country-line-ill-see-you-there-MP3-mastered.mp3?rlkey=5ikfv9jovwwwfyvcg2pztzi22&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/lf01rofrvug5q3gv9y0wk/hill-country-line-ill-see-you-there-MP3-mastered.mp3?rlkey=5ikfv9jovwwwfyvcg2pztzi22&raw=1",
-    "videos": [],
+    "videos": [
+      {
+        "youtube": "https://youtu.be/CBvJ6mRRDm8?si=MgTvjpXula-x-BT8",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
     "includeOnRadio": false,
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]
