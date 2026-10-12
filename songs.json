@@ -210,13 +210,22 @@
         "mp4_16": "https://www.dropbox.com/scl/fi/l46nur2xxiqh9ijmcp4ke/hill-country-line-somewhere-in-the-middle-lyric-16x9.mp4?rlkey=kc5ghw1mkdxu3nh258vb6xjsb&raw=1",
         "mp4_9": "https://www.dropbox.com/scl/fi/2nhmcoob7ls41spmw3ly7/hill-country-line-somewhere-in-the-middle-lyric-9x16.mp4?rlkey=wuwbyquycejjw3gm561fr80ri&raw=1",
         "order": 1
+      },
+      {
+        "youtube": "https://youtu.be/-Ts9F91KNYE?si=npqcBFMj6p_EiFXd",
+        "title": "Official Video",
+        "order": 2
       }
     ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "hill-country-line-i-can-t-take-it-back",
