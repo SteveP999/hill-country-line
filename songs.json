@@ -58,13 +58,22 @@
         "mp4_16": "https://www.dropbox.com/scl/fi/sys0kzhdim69drx7bigar/always-the-almost-hill-country-line-LYRIC-VIDEO-16x9-ONLINE-CORRECTED.mp4?rlkey=kq7abxvnacj8bhtp0yat37rob&raw=1",
         "mp4_9": "https://www.dropbox.com/scl/fi/4mf7ot8n4cisuhd0ze857/always-the-almost-hill-country-line-LYRIC-VIDEO-9x16-ONLINE-CORRECTED.mp4?rlkey=b12134xlfcvd99arrl1c9vavl&raw=1",
         "order": 1
+      },
+      {
+        "youtube": "https://youtu.be/E-eyp0ER4A8?si=zVMsLNP1PGOf0emd",
+        "title": "Official Video",
+        "order": 2
       }
     ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "hill-country-line-burning-bridges",
