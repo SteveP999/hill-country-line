@@ -96,13 +96,22 @@
         "mp4_16": "https://www.dropbox.com/scl/fi/m8jk3i2ogak6tebtqkj8w/burning-bridges-hill-country-line-LYRIC-VIDEO-16x9-ONLINE-CORRECTED.mp4?rlkey=a276fvlof2sofm4506kiyj8ra&raw=1",
         "mp4_9": "https://www.dropbox.com/scl/fi/d87axa0ylpkgkqv91ii7e/burning-bridges-hill-country-line-LYRIC-VIDEO-9x16-ONLINE-CORRECTED.mp4?rlkey=5p4p0djrrtkz6hs9b4tohagfx&raw=1",
         "order": 1
+      },
+      {
+        "youtube": "https://youtu.be/RfqzYp179eU?si=YV9BYE5eBzv4p5qA",
+        "title": "Official Video",
+        "order": 2
       }
     ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "hill-country-line-i-was-a-song",
