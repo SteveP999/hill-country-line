@@ -134,13 +134,22 @@
         "mp4_16": "https://www.dropbox.com/scl/fi/gawnljcf5j6gwfeopvcrj/hill-country-line-i-was-a-song-lyric-16x9.mp4?rlkey=17yty84q2wkzjkem3782dlp9i&raw=1",
         "mp4_9": "https://www.dropbox.com/scl/fi/ouwch94f196250p4qabj0/hill-country-line-i-was-a-song-lyric-9x16.mp4?rlkey=ai8lqimuei5ob0rj111ejqzum&raw=1",
         "order": 1
+      },
+      {
+        "youtube": "https://youtu.be/1_WL4ipRdsI?si=yRYHfLWtCGp-5NP-",
+        "title": "Official Video",
+        "order": 2
       }
     ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "hill-country-line-back-to-chapter-one",
