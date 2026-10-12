@@ -20,6 +20,11 @@
         "mp4_16": "https://www.dropbox.com/scl/fi/jmqnbdfvcohbyti8a72pj/never-say-forever-hill-country-line-LYRIC-VIDEO-16x9-CORRECTED-ONLINE.mp4?rlkey=ivwkz6h2iirq0u202bd17ojwt&raw=1",
         "mp4_9": "https://www.dropbox.com/scl/fi/6zcoyd98qqxkorkx3gei0/never-say-forever-hill-country-line-LYRIC-VIDEO-9x16-CORRECTED-ONLINE.mp4?rlkey=ld0wh75s7crztb59i2ur4bty5&raw=1",
         "order": 1
+      },
+      {
+        "youtube": "https://docs.google.com/spreadsheets/d/1lrq7zHg0aumIYkCswGWcRphSkvdFV2X3Egb-abGu3Qc/edit?usp=sharing",
+        "title": "Official Video",
+        "order": 2
       }
     ],
     "includeOnRadio": false,
