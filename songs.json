@@ -172,13 +172,22 @@
         "mp4_16": "https://www.dropbox.com/scl/fi/9pj42ym1iw8cecdghmsas/back-to-chapter-one-hill-country-line-LYRIC-VIDEO-16x9-ONLINE-CORRECTED.mp4?rlkey=ak2y5y01glkhc166gmy3lu4nr&raw=1",
         "mp4_9": "https://www.dropbox.com/scl/fi/mxjd48iqvva7pn7suliks/back-to-chapter-one-hill-country-line-LYRIC-VIDEO-9x16-ONLINE-CORRECTED.mp4?rlkey=r7ackqpvsdabvasw4x2bub4d5&raw=1",
         "order": 1
+      },
+      {
+        "youtube": "https://youtu.be/oxUWyodv8d0?si=_P9DFYQmW7a5ivnb",
+        "title": "Official Video",
+        "order": 2
       }
     ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "hill-country-line-somewhere-in-the-middle",
