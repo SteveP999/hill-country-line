@@ -236,12 +236,22 @@
     "cover": "images/covers/hill-country-line-a-little-more-every-day-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/xn0lh61mqukme0ve9yxyb/hill-country-line-a-little-more-every-day-MP3-mastered.mp3?rlkey=lfbweojj1mqssbuk94vqtctp0&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/xn0lh61mqukme0ve9yxyb/hill-country-line-a-little-more-every-day-MP3-mastered.mp3?rlkey=lfbweojj1mqssbuk94vqtctp0&raw=1",
-    "videos": [],
+    "videos": [
+      {
+        "youtube": "https://youtu.be/m55X42kIBBg?si=ejx7SCaCgte2xj0l",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "hill-country-line-i-ll-see-you-there",
