@@ -196,12 +196,22 @@
     "cover": "images/covers/hill-country-line-i-can-t-take-it-back-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/iecbh2p7cdrvllxplyiim/hill-country-line-i-cant-take-it-back-MP3-mastered.mp3?rlkey=eeigb917abjk6qm0ai9ihlozp&st=xzqzi7et&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/iecbh2p7cdrvllxplyiim/hill-country-line-i-cant-take-it-back-MP3-mastered.mp3?rlkey=eeigb917abjk6qm0ai9ihlozp&st=xzqzi7et&raw=1",
-    "videos": [],
+    "videos": [
+      {
+        "youtube": "https://youtu.be/20hQY5ifubw?si=2ZbS7egMmNdEAb-9",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
     "includeOnRadio": false,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "hill-country-line-a-little-more-every-day",
